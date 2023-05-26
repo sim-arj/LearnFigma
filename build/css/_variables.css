@@ -1,11 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Fri, 26 May 2023 02:48:15 GMT
+ * Generated on Fri, 26 May 2023 03:15:09 GMT
  */
 
 :root {
-  --sd-global-primary: #2e5eca;
-  --sd-global-radius-small: 4;
+  --sd-global-primary: #0abd27;
+  --sd-global-radius-small: 20;
   --sd-global-radius-medium: 12;
-  --sd-global-radius-large: 24;
+  --sd-global-radius-large: 50;
+  --sd-global-primary-purple: #7c22d5;
 }
